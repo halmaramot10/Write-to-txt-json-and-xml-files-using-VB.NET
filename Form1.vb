@@ -60,7 +60,7 @@ Public Class Form1
         data.Age = TextBox2.Text
         data.Address = TextBox3.Text
 
-        Dim json As String = JsonConvert.SerializeObject(data)
+        Dim json As String = JsonConvert.SerializeObject(data, Newtonsoft.Json.Formatting.Indented)
         Dim file As IO.StreamWriter
         file = My.Computer.FileSystem.OpenTextFileWriter("C:\" + TextBox4.Text + ".json", True)
         file.WriteLine(json)

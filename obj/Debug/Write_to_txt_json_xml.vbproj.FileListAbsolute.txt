@@ -12,3 +12,17 @@ C:\Users\ilove\source\repos\Write_to_txt_json_xml\obj\Debug\Write_to_txt_json_xm
 C:\Users\ilove\source\repos\Write_to_txt_json_xml\bin\Debug\Newtonsoft.Json.dll
 C:\Users\ilove\source\repos\Write_to_txt_json_xml\bin\Debug\Newtonsoft.Json.xml
 C:\Users\ilove\source\repos\Write_to_txt_json_xml\obj\Debug\Write_to_txt_json_xml.vbproj.CopyComplete
+C:\Users\ilove\Documents\GitHub\Write-to-txt-json-and-xml-files-using-VB.NET\obj\Debug\Write_to_txt_json_xml.vbprojAssemblyReference.cache
+C:\Users\ilove\Documents\GitHub\Write-to-txt-json-and-xml-files-using-VB.NET\obj\Debug\Write_to_txt_json_xml.Form1.resources
+C:\Users\ilove\Documents\GitHub\Write-to-txt-json-and-xml-files-using-VB.NET\obj\Debug\Write_to_txt_json_xml.Resources.resources
+C:\Users\ilove\Documents\GitHub\Write-to-txt-json-and-xml-files-using-VB.NET\obj\Debug\Write_to_txt_json_xml.vbproj.GenerateResource.cache
+C:\Users\ilove\Documents\GitHub\Write-to-txt-json-and-xml-files-using-VB.NET\obj\Debug\Write_to_txt_json_xml.exe
+C:\Users\ilove\Documents\GitHub\Write-to-txt-json-and-xml-files-using-VB.NET\obj\Debug\Write_to_txt_json_xml.xml
+C:\Users\ilove\Documents\GitHub\Write-to-txt-json-and-xml-files-using-VB.NET\obj\Debug\Write_to_txt_json_xml.pdb
+C:\Users\ilove\Documents\GitHub\Write-to-txt-json-and-xml-files-using-VB.NET\bin\Debug\Write_to_txt_json_xml.exe.config
+C:\Users\ilove\Documents\GitHub\Write-to-txt-json-and-xml-files-using-VB.NET\bin\Debug\Write_to_txt_json_xml.exe
+C:\Users\ilove\Documents\GitHub\Write-to-txt-json-and-xml-files-using-VB.NET\bin\Debug\Write_to_txt_json_xml.pdb
+C:\Users\ilove\Documents\GitHub\Write-to-txt-json-and-xml-files-using-VB.NET\bin\Debug\Write_to_txt_json_xml.xml
+C:\Users\ilove\Documents\GitHub\Write-to-txt-json-and-xml-files-using-VB.NET\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ilove\Documents\GitHub\Write-to-txt-json-and-xml-files-using-VB.NET\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ilove\Documents\GitHub\Write-to-txt-json-and-xml-files-using-VB.NET\obj\Debug\Write_to_txt_json_xml.vbproj.CopyComplete
